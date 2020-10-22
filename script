@@ -1,4 +1,4 @@
-$ #/bin/bash
-$ repository="https://github.com/shriyatyagii/shellscript-input-string.git"
-$ localFolder="C:\Users\SHRIYA TYAGI\Desktop\myfolder"
-$ git clone "$repository" "$localFolder"
+#/bin/bash
+repository="https://github.com/shriyatyagii/shellscript-input-string.git"
+localFolder="C:\Users\SHRIYA TYAGI\Desktop\myfolder"
+git clone "$repository" "$localFolder"
